@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 .menu ul{
-    background-color: #CCC;
+    background-color: #ed145b;
     margin: 0;
     padding: 2em;
 }
@@ -24,6 +24,10 @@ header, section, footer{
     width: 100%;
     max-width: 600px;
 }
+#imagem-perfil-victor{
+    width: 100%;
+    max-width: 300px;
+}
 .button{
     background-color: blue;
     color: white;
@@ -33,3 +37,8 @@ header, section, footer{
     text-decoration: none;
     border-radius: 0.5em;
 }
+.insta, .github, .linkedin, .twitter{
+    width: 55px;
+    border-radius: 15px;
+    
+  }
